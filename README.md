@@ -1,64 +1,22 @@
-<h1 align="center">Hi 👋, I'm Youssef Ahmed</h1>
-<h3 align="center">Backend Developer | .NET Enthusiast</h3>
-
----
-
-## 👨🏻‍💻 About Me
-
-- 💻 Full Stack Developer passionate about building real-world systems  
-- 🏥 Currently i'm training at ITI  
-- 🧠 Understanding of OOP, Design Patterns, and clean architecture  
-- 🔧 Experienced with SQL Server and database design  
-- 🚀 Always improving problem-solving skills  
-- 🎯 Focused on becoming a professional Software Engineer
-
----
-
 ## 🛠️ Tech Stack
 
 <p align="left">
+    <!-- Backend -->
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" width="40"/>
+
+    <!-- Frontend -->
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="40"/>
+
+    <!-- Database -->
     <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40"/>
+
+    <!-- Tools -->
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" width="40"/>
 </p>
-
----
-
-## 🚀 Projects
-
-### 🏥 Hospital Management System
-- Desktop Application built with C# & .NET  
-- 🔐 Authentication System (Login / Signup)  
-- 🧑‍⚕️ Patient & Appointment Management  
-- 📊 Handles real-world hospital workflow  
-
-👉 Add your repo link here
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
-</p>
-
----
-
-## 🌐 Connect with Me
-
-<p align="left">
-<a href="YOUR_LINKEDIN_LINK" target="blank">
-<img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-</p>
-
----
-
-⭐ If you like my work, consider giving a star to my repositories!
