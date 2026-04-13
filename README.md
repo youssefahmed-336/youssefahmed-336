@@ -45,7 +45,7 @@
 ## 🚀 Projects
 
 ### 🛒 1️⃣ Fully E‑Commerce Website (HTML / CSS / JS)
-<img src="" width="600"/>
+<img src="Project/images/Screenshot 2026-04-13 155617.png" width="600"/>
 A complete e‑commerce website with product sections, login page, and responsive UI.
 
 🔗 **Live Demo:**  
