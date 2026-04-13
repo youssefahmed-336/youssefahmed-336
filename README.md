@@ -36,7 +36,6 @@
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" width="40"/>
 </p>
-
 ---
 
 ## 🚀 Projects
