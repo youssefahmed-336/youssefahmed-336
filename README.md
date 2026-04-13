@@ -45,7 +45,6 @@
 ## 🚀 Projects
 
 ### 🛒 1️⃣ Fully E‑Commerce Website (HTML / CSS / JS)
-<img src="[Project/images/Screenshot 2026-04-13 155617.png](https://raw.githubusercontent.com/youssefahmed-336/project.1_ITI/refs/heads/main/Project/images/Screenshot%202026-04-13%20155617.png)" width="600"/>
 A complete e‑commerce website with product sections, login page, and responsive UI.
 
 🔗 **Live Demo:**  
