@@ -66,7 +66,7 @@
 ## 🌐 Connect with Me
 
 <p align="left">
-<a href="YOUR_LINKEDIN_LINK" target="blank">
+<a href="www.linkedin.com/in/youssef-elgendy-709526391" target="blank">
 <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 </p>
