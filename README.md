@@ -44,13 +44,55 @@
 
 ## 🚀 Projects
 
-### 🏥 Hospital Management System
-- Desktop Application built with C# & .NET  
-- 🔐 Authentication System (Login / Signup)  
-- 🧑‍⚕️ Patient & Appointment Management  
-- 📊 Handles real-world hospital workflow  
+### 🛒 1️⃣ Fully E‑Commerce Website (HTML / CSS / JS)
+A complete e‑commerce website with product sections, login page, and responsive UI.
 
-👉 Add your repo link here
+🔗 **Live Demo:**  
+https://youssefahmed-336.github.io/project.1_ITI/Project/login.html
+
+
+---
+
+## 🎨 Front‑End Websites
+
+### 🌿 2️⃣ Live It Right – Healthy Lifestyle Website
+A multi‑page website promoting healthy living with modern UI and smooth navigation.
+
+🔗 **Live Demo:**  
+https://youssefahmed-336.github.io/Live-it-right/Home-page/index.html
+
+
+### 🧑‍💼 3️⃣ Creative Agency – Landing Page
+A professional landing page for a digital agency with animations and clean layout.
+
+🔗 **Live Demo:**  
+https://youssefahmed-336.github.io/creative-agency/
+
+
+### 👕 4️⃣ Clothing Store – E‑Commerce UI
+A stylish clothing store front-end with product categories and modern design.
+
+🔗 **Live Demo:**  
+https://youssefahmed-336.github.io/Clothing-Store/
+
+
+### 🏠 5️⃣ Home Appliance Store
+A responsive home appliance store interface with product sections and clean layout.
+
+🔗 **Live Demo:**  
+https://youssefahmed-336.github.io/Home-Appliance/
+
+
+---
+
+## 🗄️ Database Projects
+
+### 🧩 6️⃣ SQL Database Project
+A full SQL Server project including tables, relationships, stored procedures, and queries.
+
+🔗 **Repository:**  
+https://github.com/youssefahmed-336/SQL-project
+
 
 ---
 
